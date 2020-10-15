@@ -1,6 +1,10 @@
-# <img src='https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/brands/telegram-plane.svg' card_color='#0088CC' width='50' height='50' style='vertical-align:bottom'/> Telegram Spam Skill
-A skill to connect a telegram bot to MyCroft.
-This will send you everything that is happening, if you are looking for the "normal" telegram skill -> https://github.com/luke5sky/telegram-skill
+# <img src='https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/brands/telegram-plane.svg' card_color='#0088CC' width='50' height='50' style='vertical-align:bottom'/> Telegram Spam Skill 
+
+A skill to connect a telegram bot to MyCroft. [THIS SKILL IS NOT GETTING ANY UPDATES!]
+
+This will send you everything that is happening. 
+
+If you are looking for the "normal" telegram skill -> https://github.com/luke5sky/telegram-skill (this one is getting updates)
 
 ## About 
 
